@@ -1,0 +1,4 @@
+interface:
+  display_name: "ReleaseForge · 发布锻造台"
+  short_description: "审查整个项目、检验全部功能、保存页面截图，整理归档并完成版本发布"
+  default_prompt: "使用 $release-forge 审查当前项目全部代码与功能，保存每个页面的截图，修复并完成回归后整理文件和文档，按指定版本发布。"
